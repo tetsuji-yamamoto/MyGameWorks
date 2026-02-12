@@ -1,6 +1,0 @@
-{
-  "FILEPATH_READ_MOTIONSKINMESH": "data\\motion\\MosionSkinInfo_000_read.txt",
-  "FILEPATH_READ_MOTIONSKINMESH_BINARY": "data\\motion\\MosionSkinInfo_000_read.bin",
-  "FILEPATH_WRITE_MOTIONSKINMESH": "data\\motion\\MosionSkinInfo_000_write.txt",
-  "FILEPATH_WRITE_MOTIONSKINMESH_BINARY": "data\\motion\\MosionSkinInfo_000_write.bin"
-}

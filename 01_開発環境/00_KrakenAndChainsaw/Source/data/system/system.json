@@ -1,0 +1,12 @@
+{
+  "FILEPATH_MOTION_PLAYER": "data\\motion\\krakenAndChainsaw\\MosionSkinInfo_orangeJaket.txt",
+  "FILEPATH_MOTION_SHIP": "data\\motion\\MosionSkinInfo_ship.txt",
+  "FILEPATH_MOTION_KRAKEN": "data\\motion\\krakenAndChainsaw\\MosionSkinInfo_kraken.txt",
+  "FILEPATH_MOTION_PLAYER_BINARY": "data\\motion\\MosionSkinInfo_humen.bin",
+  "FILEPATH_MOTION_SHIP_BINARY": "data\\motion\\MosionSkinInfo_ship.bin",
+  "FILEPATH_MOTION_KRAKEN_BINARY": "data\\motion\\MosionSkinInfo_kraken.bin",
+  "FLOAT_MOVEMENT_PLAYER": 4.0,
+  "FLOAT_FRICTION_PLAYER": 0.2,
+  "FLOAT_GRAVITY_PLAYER": -0.5,
+  "FLOAT_LOWLIMIT": -400.0
+}

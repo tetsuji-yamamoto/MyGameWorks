@@ -1,7 +1,0 @@
-{
-  "FILEPATH_MODEL": "data\\model\\orangeJaket\\orangeJaket_001.x",
-  "FILEPATH_READ_SKINMESH": "data\\motion\\MosionSkinInfo_000_read.txt",
-  "FILEPATH_READ_SKINMESH_BINARY": "data\\motion\\MosionSkinInfo_000_read.bin",
-  "FILEPATH_WRITE_SKINMESH": "data\\motion\\MosionSkinInfo_000_write.txt",
-  "FILEPATH_WRITE_SKINMESH_BINARY": "data\\motion\\MosionSkinInfo_000_write.bin"
-}
