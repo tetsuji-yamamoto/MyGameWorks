@@ -1,0 +1,24 @@
+#*******************************************************************************
+#
+# É{Å[ÉìÇÃèÓïÒ
+# Author Tetsuji Yamamoto
+#
+#*******************************************************************************
+XFILEPASS = data\model\tako_test_001.x
+
+BONE_SET
+	BONE_IDX = 0
+	BONE_IDX_CHILD = 1
+	BONE_IDX_PARENT = -1
+	BONE_POS = 0.000000 44.000000 0.000000
+	BONE_POSOFFSET = 0.000000 44.000000 0.000000
+BONE_END
+
+BONE_SET
+	BONE_IDX = 1
+	BONE_IDX_CHILD = -1
+	BONE_IDX_PARENT = 0
+	BONE_POS = 0.000000 -45.000000 0.000000
+	BONE_POSOFFSET = 0.000000 -1.000000 0.000000
+BONE_END
+
